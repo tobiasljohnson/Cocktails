@@ -1,0 +1,934 @@
+<cocktails>
+   <cocktail name="Brooklyn">
+      <instructions>Stir with ice.</instructions>
+      <year>1910</year>
+      <recipe>
+         <entry ingredient="rye whiskey">2 oz.</entry>
+         <entry ingredient="dry vermouth">3/4 oz.</entry>
+         <entry ingredient="Maraschino liqueur">1/4 oz.</entry>
+         <entry ingredient="Amer Picon bitter">1/4 oz.</entry>
+      </recipe>
+      <other>Try Amaro Ciociaro as a subtitute for Amer Picon</other>
+   </cocktail>
+   <cocktail name="Boulevardier">
+      <instructions>Stir with ice.</instructions>
+      <other>Use dry vermouth instead of sweet vermouth to make an Old Pal.</other>
+      <recipe>
+         <entry ingredient="rye whiskey">1 1/3 oz.</entry>
+         <entry ingredient="sweet vermouth">1/2 oz.</entry>
+         <entry ingredient="Campari">1/2 oz.</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Old Joel">
+      <instructions>Stir with ice.</instructions>
+      <garnish>Garnish with a brandied cherry.</garnish>
+      <year>2013</year>
+      <recipe>
+         <entry ingredient="bourbon whiskey">1 1/2 oz.</entry>
+         <entry ingredient="port">1/2 oz.</entry>
+         <entry ingredient="sweet vermouth">1/4 oz.</entry>
+         <entry ingredient="Campari">1/2 oz.</entry>
+         <entry ingredient="Angostura bitters">2 dashes</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Pink Lady">
+      <instructions>Dry-shake, then shake with ice.</instructions>
+      <year>1922</year>
+      <recipe>
+         <entry ingredient="gin" brand="Plymouth">1 1/2 oz.</entry>
+         <entry ingredient="lemon juice">3/4 oz.</entry>
+         <entry ingredient="applejack">1/2 oz.</entry>
+         <entry ingredient="simple syrup">1/2 oz.</entry>
+         <entry ingredient="grenadine">1/2 oz.</entry>
+         <entry ingredient="egg white">1</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="White Lady">
+      <instructions>Dry-shake, then shake with ice.</instructions>
+      <year>1929</year>
+      <recipe>
+         <entry ingredient="gin" brand="Beefeater">2 oz.</entry>
+         <entry ingredient="Cointreau">3/4 oz.</entry>
+         <entry ingredient="lemon juice">3/4 oz.</entry>
+         <entry ingredient="simple syrup">1/4 oz.</entry>
+         <entry ingredient="egg white">1</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Negroni">
+      <instructions>Stir with ice.</instructions>
+      <garnish>Garnish with an orange twist.</garnish>
+      <recipe>
+         <entry ingredient="gin">1 oz.</entry>
+         <entry ingredient="sweet vermouth">1 oz.</entry>
+         <entry ingredient="Campari">1 oz.</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Vesper">
+      <instructions>Stir with ice.</instructions>
+      <garnish>Garnish with a lemon twist.</garnish>
+      <year>1953</year>
+      <recipe>
+         <entry ingredient="gin">2 1/4 oz.</entry>
+         <entry ingredient="vodka">3/4 oz.</entry>
+         <entry ingredient="Lillet blanc">1/2 oz.</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="New York Sour">
+      <instructions>Shake the rye, lemon, and syrup with ice, and strain into a glass with ice. Float the wine over the drink.</instructions>
+      <garnish>Garnish with a lemon twist.</garnish>
+      <other>From Essex in Seattle.</other>
+      <recipe>
+         <entry ingredient="rye whiskey">1 3/4 oz.</entry>
+         <entry ingredient="lemon juice">3/4 oz.</entry>
+         <entry ingredient="simple syrup">1/2 oz.</entry>
+         <entry ingredient="red wine">1/2 oz.</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Old-Fashioned Whiskey Cocktail">
+      <instructions>Muddle and stir with ice.</instructions>
+      <garnish>Garnish with a lemon twist.</garnish>
+      <year>1888</year>
+      <recipe>
+         <entry ingredient="rye whiskey">2 oz.</entry>
+         <entry ingredient="Demerara sugar cube">1</entry>
+         <entry ingredient="Angostura bitters">2 dashes</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Aviation">
+      <instructions>Shake with ice.</instructions>
+      <year>1916</year>
+      <other>Crème de violette can be replaced by additional Maraschino.</other>
+      <recipe>
+         <entry ingredient="gin" brand="Beefeater">2 oz.</entry>
+         <entry ingredient="lemon juice">3/4 oz.</entry>
+         <entry ingredient="Maraschino liqueur">1/2 oz.</entry>
+         <entry ingredient="crème de violette">1/4 oz.</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Pegu Club">
+      <instructions>Shake with ice.</instructions>
+      <garnish>Garnish with a lime wheel.</garnish>
+      <recipe>
+         <entry ingredient="gin">2 oz.</entry>
+         <entry ingredient="orange curaçao">3/4 oz.</entry>
+         <entry ingredient="lime juice">3/4 oz.</entry>
+         <entry ingredient="Angostura bitters">dash</entry>
+         <entry ingredient="orange bitters">dash</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Frisco">
+      <instructions>Stir with ice.</instructions>
+      <garnish>Garnish with a lemon twist.</garnish>
+      <year>1930</year>
+      <recipe>
+         <entry ingredient="rye whiskey">2 oz.</entry>
+         <entry ingredient="Bénédictine">1/2 oz.</entry>
+      </recipe>
+      <other>See Frisco Sour for a close variant.</other>
+   </cocktail>
+   <cocktail name="Center of Gravity">
+      <instructions>Stir with ice. Strain into a glass with a giant cube of ice.</instructions>
+      <garnish>Garnish with a twist of orange studded with a clove.</garnish>
+      <year>2013</year>
+      <other>A variation of the Autumn Sweater, invented by Brad Thomas Parsons.</other>
+      <recipe>
+         <entry ingredient="rye whiskey">1 oz.</entry>
+         <entry ingredient="Cynar">1 oz.</entry>
+         <entry ingredient="maple syrup">1/4 oz.</entry>
+         <entry ingredient="chocolate bitters">1 dash</entry>
+         <entry ingredient="grapefruit bitters">1 dash</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="New York Flip">
+      <instructions>Dry-shake everything but the port, then shake with ice.  Strain and top with port.</instructions>
+      <garnish>Garnish with nutmeg.</garnish>
+      <year>1862</year>
+      <recipe>
+         <entry ingredient="bourbon whiskey">1 oz.</entry>
+         <entry ingredient="heavy cream">1/2 oz.</entry>
+         <entry ingredient="simple syrup">1/4 oz.</entry>
+         <entry ingredient="egg yolk">1</entry>
+         <entry ingredient="ruby port">3/4 oz.</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Sazerac">
+      <instructions>Muddle the sugar and bitters.  Add the whiskey and stir with ice.  Strain into an absinthe-washed glass.  Garnish with a lemon twist.</instructions>
+      <year>1908</year>
+      <recipe>
+         <entry ingredient="rye whiskey">2 oz.</entry>
+         <entry ingredient="Peychaud's bitters">4 dashes</entry>
+         <entry ingredient="Demerara sugar cube">1</entry>
+      </recipe>
+      <other>Alternatively, try 3 dashes of Peychaud's bitters and 2 of Angostura.</other>
+   </cocktail>
+   <cocktail name="Algonquin">
+      <instructions>Stir with ice.</instructions>
+      <year>1935</year>
+      <recipe>
+         <entry ingredient="rye whiskey">2 oz.</entry>
+         <entry ingredient="dry vermouth">3/4 oz.</entry>
+         <entry ingredient="pineapple juice">3/4 oz.</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Coffee Cocktail">
+      <instructions>Dry-shake, then shake with ice.</instructions>
+      <garnish>Garnish with grated nutmeg.</garnish>
+      <year>1887</year>
+      <recipe>
+         <entry ingredient="Cognac">1 1/2 oz.</entry>
+         <entry ingredient="ruby port">1 1/2 oz.</entry>
+         <entry ingredient="simple syrup">1/4 oz.</entry>
+         <entry ingredient="whole egg">1</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Mint Julep">
+      <instructions>Muddle the mint and sugar in a cup.  Add the bourbon and top with pebble ice.  Swizzle and add more pebble ice.</instructions>
+      <garnish>Garnish with mint leaves.</garnish>
+      <year>1862</year>
+      <recipe>
+         <entry ingredient="bourbon whiskey">2 1/2 oz.</entry>
+         <entry ingredient="simple syrup">1/2 oz.</entry>
+         <entry ingredient="mint leaves">8</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Manhattan">
+      <instructions>Stir with ice.</instructions>
+      <garnish>Garnish with a brandied cherry.</garnish>
+      <recipe>
+         <entry ingredient="rye whiskey">2 oz.</entry>
+         <entry ingredient="sweet vermouth">1 oz.</entry>
+         <entry ingredient="Angostura bitters">2 dashes</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Brown Derby">
+      <instructions>Shake with ice.</instructions>
+      <recipe>
+         <entry ingredient="bourbon whiskey">2 oz.</entry>
+         <entry ingredient="grapefruit juice">1 oz.</entry>
+         <entry ingredient="honey syrup">3/4 oz.</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Ti-Punch">
+      <instructions>Squeeze lime disc hard, extracting both juice and oil.  Add the remaining ingredients, pebble ice, and stir.</instructions>
+      <recipe>
+         <entry ingredient="rhum agricole">2 oz.</entry>
+         <entry ingredient="Martinique sugar cane syrup">1 barspoon</entry>
+         <entry ingredient="lime disc">1</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Fancy Free">
+      <instructions>Stir with ice.</instructions>
+      <garnish>Garnish with an orange twist.</garnish>
+      <recipe>
+         <entry ingredient="rye whiskey">2 oz.</entry>
+         <entry ingredient="Maraschino liqueur">1/2 oz.</entry>
+         <entry ingredient="Angostura bitters">dash</entry>
+         <entry ingredient="orange bitters">dash</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Cassis Old Fashioned">
+      <instructions>Stir with ice.</instructions>
+      <garnish>Garnish with a lemon twist.</garnish>
+      <recipe>
+         <entry ingredient="rye whiskey">2 oz.</entry>
+         <entry ingredient="crème de cassis">1/2 oz.</entry>
+         <entry ingredient="Angostura bitters">dash</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="De La Louisiane">
+      <instructions>Stir with ice.</instructions>
+      <garnish>Garnish with three brandied cherries on a pick.</garnish>
+      <year>1937</year>
+      <recipe>
+         <entry ingredient="rye whiskey">2 oz.</entry>
+         <entry ingredient="sweet vermouth">3/4 oz.</entry>
+         <entry ingredient="Bénédictine">3/4 oz.</entry>
+         <entry ingredient="absinthe">3 dashes</entry>
+         <entry ingredient="Peychaud's bitters">3 dashes</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Widow's Kiss">
+      <instructions>Stir with ice.</instructions>
+      <year>1895</year>
+      <recipe>
+         <entry ingredient="apple brandy" brand="Laird's bonded">2 oz.</entry>
+         <entry ingredient="yellow Chartreuse">1/4 oz.</entry>
+         <entry ingredient="Bénédictine">1/4 oz.</entry>
+         <entry ingredient="Angostura bitters">2 dashes</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Airmail">
+      <instructions>Shake the first three ingredients with ice, strain, and top with the Champagne.</instructions>
+      <garnish>Garnish with a lime wheel.</garnish>
+      <year>1941</year>
+      <recipe>
+         <entry ingredient="rum">1 oz.</entry>
+         <entry ingredient="lime juice">1/2 oz.</entry>
+         <entry ingredient="honey syrup">1/2 oz.</entry>
+         <entry ingredient="Champagne">1 oz.</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Vieux Carré">
+      <instructions>Stir with ice.</instructions>
+      <year>1937</year>
+      <recipe>
+         <entry ingredient="rye whiskey">1 oz.</entry>
+         <entry ingredient="Cognac">1 oz.</entry>
+         <entry ingredient="sweet vermouth">1 oz.</entry>
+         <entry ingredient="Bénédictine">1/4 oz.</entry>
+         <entry ingredient="Angostura bitters">1 dash</entry>
+         <entry ingredient="Peychaud's bitters">1 dash</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Martini">
+      <instructions>Stir with ice.</instructions>
+      <garnish>Garnish with three olives on a pick or a lemon twist.</garnish>
+      <year>1904</year>
+      <recipe>
+         <entry ingredient="gin">2 oz.</entry>
+         <entry ingredient="dry vermouth">2/3 oz.</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Champs-Élysées">
+      <instructions>Shake with ice.</instructions>
+      <garnish>Garnish with a lemon twist.</garnish>
+      <year>1930</year>
+      <recipe>
+         <entry ingredient="Cognac">2 oz.</entry>
+         <entry ingredient="lemon juice">3/4 oz.</entry>
+         <entry ingredient="green Chartreuse">1/2 oz.</entry>
+         <entry ingredient="simple syrup">1/4 oz.</entry>
+         <entry ingredient="Angostura bitters">dash</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Gimlet">
+      <instructions>Shake with ice.</instructions>
+      <garnish>Garnish with a lime wheel.</garnish>
+      <recipe>
+         <entry ingredient="gin" brand="Plymouth">2 oz.</entry>
+         <entry ingredient="lime cordial">3/4 oz.</entry>
+         <entry ingredient="lime juice">3/4 oz.</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Second Love">
+      <instructions>Shake with ice.</instructions>
+      <other>Found on a Chowhound thread.</other>
+      <recipe>
+         <entry ingredient="rye whiskey">1/2 oz.</entry>
+         <entry ingredient="Cynar">1/2 oz.</entry>
+         <entry ingredient="Maraschino liqueur">1/2 oz.</entry>
+         <entry ingredient="lemon juice">1/2 oz.</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Mai-Tai">
+      <instructions>Shake with ice.</instructions>
+      <garnish>Garnish with a mint sprig.</garnish>
+      <year>1972</year>
+      <recipe>
+         <entry ingredient="light rum">1 oz.</entry>
+         <entry ingredient="rhum agricole">1 oz.</entry>
+         <entry ingredient="lime juice">1 oz.</entry>
+         <entry ingredient="orange curaçao">1/2 oz.</entry>
+         <entry ingredient="orgeat">1/2 oz.</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Sidecar">
+      <instructions>Shake with ice and strain into a half sugar-rimmed glass.</instructions>
+      <garnish>Garnish with a brandied cherry, or nothing.</garnish>
+      <year>1922</year>
+      <recipe>
+         <entry ingredient="Cognac">2 oz.</entry>
+         <entry ingredient="Cointreau">3/4 oz.</entry>
+         <entry ingredient="lemon juice">3/4 oz.</entry>
+         <entry ingredient="simple syrup">1/4 oz.</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Applejack Rabbit">
+      <instructions>Shake with ice.</instructions>
+      <year>1927</year>
+      <recipe>
+         <entry ingredient="apple brandy" brand="Laird's bonded">2 oz.</entry>
+         <entry ingredient="lemon juice">0.75 oz.</entry>
+         <entry ingredient="orange juice">3/4 oz.</entry>
+         <entry ingredient="maple syrup">1/2 oz.</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Cosmopolitan">
+      <instructions>Shake with ice.</instructions>
+      <garnish>Garnish with an orange twist.</garnish>
+      <year>1985</year>
+      <recipe>
+         <entry ingredient="vodka">2 oz.</entry>
+         <entry ingredient="Cointreau">3/4 oz.</entry>
+         <entry ingredient="lime juice">3/4 oz.</entry>
+         <entry ingredient="cranberry juice">1/2 oz.</entry>
+         <entry ingredient="simple syrup">1/4 oz.</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Jack Rose">
+      <instructions>Shake with ice.</instructions>
+      <year>1908</year>
+      <recipe>
+         <entry ingredient="apple brandy" brand="Laird's bonded">2 oz.</entry>
+         <entry ingredient="lemon juice">3/4 oz.</entry>
+         <entry ingredient="grenadine">3/4 oz.</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Old Pal">
+      <instructions>Stir with ice.</instructions>
+      <year>1922</year>
+      <other>Use sweet vermouth instead of dry vermouth to make a Boulevardier.</other>
+      <recipe>
+         <entry ingredient="rye whiskey">1 1/3 oz.</entry>
+         <entry ingredient="dry vermouth">1/2 oz.</entry>
+         <entry ingredient="Campari">1/2 oz.</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Blinker">
+      <instructions>Shake with ice.</instructions>
+      <year>1934</year>
+      <recipe>
+         <entry ingredient="rye whiskey">2 oz.</entry>
+         <entry ingredient="grapefruit juice">1 oz.</entry>
+         <entry ingredient="simple syrup">1/4 oz.</entry>
+         <entry ingredient="raspberry preserves">1 barspoon</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Bronx">
+      <instructions>Shake with ice.</instructions>
+      <year>1908</year>
+      <recipe>
+         <entry ingredient="gin" brand="Beefeater">2 oz.</entry>
+         <entry ingredient="orange juice">3/4 oz.</entry>
+         <entry ingredient="dry vermouth">1/2 oz.</entry>
+         <entry ingredient="sweet vermouth">1/2 oz.</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Mary Pickford">
+      <instructions>Shake with ice.</instructions>
+      <recipe>
+         <entry ingredient="light rum">2 oz.</entry>
+         <entry ingredient="pineapple juice">3/4 oz.</entry>
+         <entry ingredient="Maraschino liqueur">1/2 oz.</entry>
+         <entry ingredient="grenadine">1/4 oz.</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Frisco Sour">
+      <instructions>Shake with ice.</instructions>
+      <recipe>
+         <entry ingredient="rye whiskey">1 1/2 oz.</entry>
+         <entry ingredient="Bénédictine">1/2 oz.</entry>
+         <entry ingredient="lemon juice">1/2 oz.</entry>
+      </recipe>
+   </cocktail>
+
+   <cocktail name="Pisco Sour">
+      <instructions>Dry-shake, then shake with ice all ingredients but the bitters.</instructions>
+      <garnish>Garnish with the Angostura bitters, swirled with two straws.</garnish>
+      <year>1951</year>
+      <recipe>
+         <entry ingredient="pisco">2 oz.</entry>
+         <entry ingredient="lime juice">3/4 oz.</entry>
+         <entry ingredient="simple syrup">3/4 oz.</entry>
+         <entry ingredient="egg white">1</entry>
+         <entry ingredient="Angostura bitters">4 drops</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Daiquiri">
+      <instructions>Shake with ice.</instructions>
+      <garnish>Garnish with a lime wheel.</garnish>
+      <year>1914</year>
+      <recipe>
+         <entry ingredient="light rum">2 oz.</entry>
+         <entry ingredient="lime juice">3/4 oz.</entry>
+         <entry ingredient="simple syrup">3/4 oz.</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="White Negroni">
+      <instructions>Stir with ice.</instructions>
+      <garnish>Garnish with a lemon twist.</garnish>
+      <year>2002</year>
+      <recipe>
+         <entry ingredient="gin" brand="Plymouth">2 oz.</entry>
+         <entry ingredient="Lillet blanc">1 oz.</entry>
+         <entry ingredient="Suze">3/4 oz.</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Moscow Mule">
+      <instructions>Shake with ice and strain into an ice-filled cup.</instructions>
+      <garnish>Garnish with a lime wheel and candied ginger.</garnish>
+      <year>1946</year>
+      <recipe>
+         <entry ingredient="vodka">1 1/2 oz.</entry>
+         <entry ingredient="ginger beer">1 oz.</entry>
+         <entry ingredient="simple syrup">1 oz.</entry>
+         <entry ingredient="lime juice">3/4 oz.</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Martinez">
+      <instructions>Stir with ice.</instructions>
+      <garnish>Garnish with an orange twist.</garnish>
+      <year>1884</year>
+      <recipe>
+         <entry ingredient="gin">1 1/2 oz.</entry>
+         <entry ingredient="sweet vermouth">1 1/2 oz.</entry>
+         <entry ingredient="Maraschino liqueur">1/4 oz.</entry>
+         <entry ingredient="bitters" brand="Adam Elmegirab's Boker's">2 dashes</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Tuxedo">
+      <instructions>Stir with ice and strain into an absinthe-washed glass.</instructions>
+      <garnish>Garnish with a lemon twist and a cherry.</garnish>
+      <year>1900</year>
+      <recipe>
+         <entry ingredient="gin" brand="Plymouth">2 oz.</entry>
+         <entry ingredient="dry vermouth">1 1/2 oz.</entry>
+         <entry ingredient="Maraschino liqueur">1/4 oz.</entry>
+         <entry ingredient="orange bitters">2 dashes</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="El Presidente">
+      <instructions>Stir with ice.</instructions>
+      <garnish>Garnish with an orange twist.</garnish>
+      <recipe>
+         <entry ingredient="rum">1 1/2 oz.</entry>
+         <entry ingredient="bianco vermouth">1 1/2 oz.</entry>
+         <entry ingredient="orange curaçao">1 barspoon</entry>
+         <entry ingredient="grenadine">1/2 barspoon</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="French 75">
+      <instructions>Shake all but the Champagne with ice, strain, and top with the Champagne.</instructions>
+      <garnish>Garnish with a lemon twist.</garnish>
+      <year>1915</year>
+      <recipe>
+         <entry ingredient="gin">1 oz.</entry>
+         <entry ingredient="simple syrup">1/2 oz.</entry>
+         <entry ingredient="lemon juice">1/2 oz.</entry>
+         <entry ingredient="Champagne">2 oz.</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Seelbach Cocktail">
+      <instructions>Stir all but the Champagne with ice.  Strain and top with the Champagne.</instructions>
+      <garnish>Garnish with an orange twist.</garnish>
+      <year>1917</year>
+      <recipe>
+         <entry ingredient="bourbon whiskey">1 oz.</entry>
+         <entry ingredient="Cointreau">1/2 oz.</entry>
+         <entry ingredient="Peychaud's bitters">7 dashes</entry>
+         <entry ingredient="Angostura bitters">7 dashes</entry>
+         <entry ingredient="Champagne">2 oz.</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Aperol Spritz">
+      <instructions>Combine all ingredients in a glass with ice and stir.</instructions>
+      <garnish>Garnish with half an orange wheel.</garnish>
+      <recipe>
+         <entry ingredient="Aperol">2 oz.</entry>
+         <entry ingredient="prosecco">1 oz.</entry>
+         <entry ingredient="club soda">1 oz.</entry>
+         <entry ingredient="orange juice">1/2 oz.</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Improved Whiskey Cocktail">
+      <instructions>Stir with ice and strain into an absinthe-washed glass.</instructions>
+      <garnish>Garnish with a lemon twist.</garnish>
+      <year>1876</year>
+      <recipe>
+         <entry ingredient="rye whiskey">2 oz.</entry>
+         <entry ingredient="Maraschino liqueur">1/4 oz.</entry>
+         <entry ingredient="simple syrup">1/4 oz.</entry>
+         <entry ingredient="Angostura bitters">2 dashes</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Goldrush">
+      <instructions>Shake with ice.</instructions>
+      <recipe>
+         <entry ingredient="bourbon whiskey">2 oz.</entry>
+         <entry ingredient="honey syrup">3/4 oz.</entry>
+         <entry ingredient="lemon juice">3/4 oz.</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Opera">
+      <instructions>Stir with ice.</instructions>
+      <garnish>Garnish with an orange twist.</garnish>
+      <recipe>
+         <entry ingredient="gin">1 1/2 oz.</entry>
+         <entry ingredient="Dubonnet rouge">1/2 oz.</entry>
+         <entry ingredient="Maraschino liqueur">1/4 oz.</entry>
+         <entry ingredient="orange bitters">dash</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Tom Collins">
+      <instructions>Shake all but the soda with ice and strain into an ice-filled glass.  Top with the soda.</instructions>
+      <garnish>Garnish with a lemon wedge.</garnish>
+      <year>1876</year>
+      <recipe>
+         <entry ingredient="gin">2 oz.</entry>
+         <entry ingredient="lemon juice">3/4 oz.</entry>
+         <entry ingredient="simple syrup">1/2 oz.</entry>
+         <entry ingredient="club soda">2 oz.</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Journalist">
+      <instructions>Shake with ice.</instructions>
+      <recipe>
+         <entry ingredient="gin">3/4 oz.</entry>
+         <entry ingredient="dry vermouth">1/4 oz.</entry>
+         <entry ingredient="sweet vermouth">1/4 oz.</entry>
+         <entry ingredient="orange curaçao">1/4 oz.</entry>
+         <entry ingredient="lemon juice">1/4 oz.</entry>
+         <entry ingredient="Angostura bitters">dash</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Lean In">
+      <instructions>Stir with ice.</instructions>
+      <year>2013</year>
+      <other>Inspired by a drink at Joule in Seattle. Invented by Sheryl Sandberg.</other>
+      <recipe>
+         <entry ingredient="rye whiskey">1 1/3 oz.</entry>
+         <entry ingredient="Cynar">1/2 oz.</entry>
+         <entry ingredient="Créole Shrubb">1/4 oz.</entry>
+         <entry ingredient="chocolate bitters">dash</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Diamondback">
+      <instructions>Stir with ice.</instructions>
+      <year>1951</year>
+      <recipe>
+         <entry ingredient="rye whiskey">2 oz.</entry>
+         <entry ingredient="apple brandy" brand="Laird's bonded">1/2 oz.</entry>
+         <entry ingredient="yellow Chartreuse">1/2 oz.</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Americano">
+      <instructions>Put first two ingredients in a glass with ice and top with the soda.</instructions>
+      <garnish>Garnish with half an orange wheel.</garnish>
+      <year>1932</year>
+      <recipe>
+         <entry ingredient="sweet vermouth">1 1/2 oz.</entry>
+         <entry ingredient="Campari">1 1/2 oz.</entry>
+         <entry ingredient="club soda">2 1/2 oz.</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Clover Club">
+      <instructions>Dry-shake, then shake with ice.</instructions>
+      <year>1909</year>
+      <recipe>
+         <entry ingredient="gin">2 oz.</entry>
+         <entry ingredient="lemon juice">3/4 oz.</entry>
+         <entry ingredient="simple syrup">1/2 oz.</entry>
+         <entry ingredient="raspberry preserves">1 barspoon</entry>
+         <entry ingredient="egg white">1</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Ward Eight">
+      <instructions>Shake with ice.</instructions>
+      <year>1913</year>
+      <recipe>
+         <entry ingredient="rye whiskey">2 oz.</entry>
+         <entry ingredient="lemon juice">1/2 oz.</entry>
+         <entry ingredient="orange juice">1/2 oz.</entry>
+         <entry ingredient="simple syrup">1/4 oz.</entry>
+         <entry ingredient="pomegranate molasses">1 barspoon</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Milk Punch">
+      <instructions>Shake with ice and strain into a glass with one large ice cube.</instructions>
+      <garnish>Garnish with nutmeg.</garnish>
+      <year>1862</year>
+      <recipe>
+         <entry ingredient="whole milk">1 1/2 oz.</entry>
+         <entry ingredient="Cognac">1 oz.</entry>
+         <entry ingredient="dark rum">1 oz.</entry>
+         <entry ingredient="simple syrup">3/4 oz.</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Honeymoon Cocktail">
+      <instructions>Shake with ice.</instructions>
+      <year>1916</year>
+      <recipe>
+         <entry ingredient="apple brandy" brand="Laird's bonded">2 oz.</entry>
+         <entry ingredient="orange curaçao">1/2 oz.</entry>
+         <entry ingredient="Bénédictine">1/2 oz.</entry>
+         <entry ingredient="lemon juice">1/2 oz.</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Kir">
+      <instructions>Add the crème de cassis to the glass, then top with the wine.</instructions>
+      <recipe>
+         <entry ingredient="white wine">3 oz.</entry>
+         <entry ingredient="crème de cassis">1/3 oz.</entry>
+      </recipe>
+      <other>Use sparkling wine for a Kir Royale</other>
+   </cocktail>
+   <cocktail name="Paloma">
+      <instructions>Combine tequila and lime in a salt-rimmed glass.  Add ice and grapefruit soda.</instructions>
+      <garnish>Garnish with half a grapefruit wheel.</garnish>
+      <recipe>
+         <entry ingredient="reposado tequila">2 oz.</entry>
+         <entry ingredient="lime juice">1/2 oz.</entry>
+         <entry ingredient="grapefruit soda">2 oz.</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Bijou">
+      <instructions>Stir with ice.</instructions>
+      <garnish>Garnish with a cherry and a lemon twist.</garnish>
+      <year>1895</year>
+      <recipe>
+         <entry ingredient="gin" brand="Tanqueray">1 oz.</entry>
+         <entry ingredient="sweet vermouth">1 oz.</entry>
+         <entry ingredient="green Chartreuse">1 oz.</entry>
+         <entry ingredient="orange bitters">1 dash</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Abbey Cocktail">
+      <instructions>Shake with ice.</instructions>
+      <garnish>Garnish with a cherry.</garnish>
+      <recipe>
+         <entry ingredient="gin">1 1/2 oz.</entry>
+         <entry ingredient="Lillet blanc">3/4 oz.</entry>
+         <entry ingredient="orange juice">3/4 oz.</entry>
+         <entry ingredient="orange bitters">2 dashes</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Margarita">
+      <instructions>Shake with ice.</instructions>
+      <garnish>Garnish with a lime wheel.</garnish>
+      <year>1937</year>
+      <recipe>
+         <entry ingredient="blanco tequila">2 oz.</entry>
+         <entry ingredient="Cointreau">3/4 oz.</entry>
+         <entry ingredient="lime juice">3/4 oz.</entry>
+         <entry ingredient="agave syrup">1/4 oz.</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Last Word">
+      <instructions>Shake with ice.</instructions>
+      <year>1951</year>
+      <recipe>
+         <entry ingredient="gin" brand="Tanqueray">1/2 oz.</entry>
+         <entry ingredient="Maraschino liqueur" brand="Luxardo">1/2 oz.</entry>
+         <entry ingredient="green Chartreuse">1/2 oz.</entry>
+         <entry ingredient="lime juice">1/2 oz.</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Corpse Reviver No. 2">
+      <instructions>Shake with ice and strain into an absinthe-rinsed glass.</instructions>
+      <year>1930</year>
+      <recipe>
+         <entry ingredient="gin" brand="Plymouth">3/4 oz.</entry>
+         <entry ingredient="Cointreau">3/4 oz.</entry>
+         <entry ingredient="Lillet blanc">3/4 oz.</entry>
+         <entry ingredient="lemon juice">3/4 oz.</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Monkey Gland">
+      <instructions>Shake with ice and strain into an absinthe-rinsed glass.</instructions>
+      <year>1922</year>
+      <recipe>
+         <entry ingredient="gin">2 oz.</entry>
+         <entry ingredient="orange juice">1 oz.</entry>
+         <entry ingredient="pomegranate molasses">1 barspoon</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Japanese Cocktail">
+      <instructions>Stir with ice.</instructions>
+      <garnish>Garnish with a lemon twist.</garnish>
+      <year>1862</year>
+      <recipe>
+         <entry ingredient="Cognac">2 oz.</entry>
+         <entry ingredient="orgeat">1/2 oz.</entry>
+         <entry ingredient="Angostura bitters">2 dashes</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Rob Roy">
+      <instructions>Stir with ice.</instructions>
+      <garnish>Garnish with a lemon twist.</garnish>
+      <year>1900</year>
+      <recipe>
+         <entry ingredient="Scotch whisky">2 1/2 oz.</entry>
+         <entry ingredient="sweet vermouth">3/4 oz.</entry>
+         <entry ingredient="orange bitters">2 dashes</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Caprice">
+      <instructions>Stir with ice.</instructions>
+      <garnish>Garnish with an orange twist.</garnish>
+      <recipe>
+         <entry ingredient="gin">1 oz.</entry>
+         <entry ingredient="dry vermouth">1 oz.</entry>
+         <entry ingredient="Bénédictine">1/3 oz.</entry>
+         <entry ingredient="orange bitters">dash</entry>
+      </recipe>
+   </cocktail>
+   <cocktail name="Pimm's Cup">
+      <instructions>Muddle the cucumber and simple syrup.  Add the Pimm's and the lemon juice and shake with ice.  Strain into an ice-filled glass.  Top with the ginger beer.</instructions>
+      <garnish>Garnish with a cucumber wheel.</garnish>
+      <year>1946</year>
+      <recipe>
+         <entry ingredient="Pimm's #1 Cup">2 oz.</entry>
+         <entry ingredient="lemon juice">3/4 oz.</entry>
+         <entry ingredient="simple syrup">1/2 oz.</entry>
+         <entry ingredient="cucumber">2 slices</entry>
+         <entry ingredient="ginger beer">1 oz.</entry>
+      </recipe>
+   </cocktail>
+   <ingredient fullname="coconut water" shortname="coconut"/>
+   <ingredient fullname="whiskey barrel aged bitters" shortname="bitters"/>
+   <ingredient fullname="green pepper" shortname="green pepper"/>
+   <ingredient fullname="rum" shortname="rum"/>
+   <ingredient fullname="apple butter" shortname="apple butter" searchterms="jam"/>
+   <ingredient fullname="dark rum" shortname="rum"/>
+   <ingredient fullname="bourbon whiskey" shortname="bourbon"/>
+   <ingredient fullname="ginger" shortname="ginger" searchterms="vegetable"/>
+   <ingredient fullname="mole bitters" shortname="bitters"/>
+   <ingredient fullname="sloe gin" shortname="sloe gin"/>
+   <ingredient fullname="vodka" shortname="vodka"/>
+   <ingredient fullname="tawny port" shortname="port" searchterms="red wine"/>
+   <ingredient fullname="Demerara sugar cube" shortname="sugar"/>
+   <ingredient fullname="cucumber" shortname="cucumber"/>
+   <ingredient fullname="orange marmalade" shortname="orange marmalade" searchterms="jam"/>
+   <ingredient fullname="dry Riesling" shortname="wine" searchterms="white"/>
+   <ingredient fullname="Cognac" shortname="Cognac" searchterms="brandy"/>
+   <ingredient fullname="root beer" shortname="root beer" searchterms="soda"/>
+   <ingredient fullname="whole milk" shortname="milk" searchterms="cream"/>
+   <ingredient fullname="Kahlúa" shortname="Kahlúa" searchterms="coffee"/>
+   <ingredient fullname="egg white" shortname="egg"/>
+   <ingredient fullname="Pimm's #1 Cup" shortname="Pimm's" searchterms="gin"/>
+   <ingredient fullname="Fernet Branca" shortname="Fernet Branca" searchterms="bitter"/>
+   <ingredient fullname="prosecco" shortname="prosecco" searchterms="sparkling wine"/>
+   <ingredient fullname="bitters" shortname="bitters"/>
+   <ingredient fullname="crème de cassis" shortname="cassis" searchterms="currant liqueur creme"/>
+   <ingredient fullname="Angostura bitters" shortname="bitters"/>
+   <ingredient fullname="Drambuie" shortname="Drambuie" searchterms="Scotch whisky whiskey honey"/>
+   <ingredient fullname="rhubarb bitters" shortname="bitters"/>
+   <ingredient fullname="raspberry preserves" shortname="raspberry preserves"/>
+   <ingredient fullname="Peychaud's bitters" shortname="bitters"/>
+   <ingredient fullname="Pernod anise" shortname="Pernod"/>
+   <ingredient fullname="sherry" shortname="sherry"/>
+   <ingredient fullname="green Chartreuse" shortname="Chartreuse" searchterms="liqueur"/>
+   <ingredient fullname="peach eau de vie" shortname="peach" searchterms="peche pêche"/>
+   <ingredient fullname="Bénédictine" shortname="Bénédictine" searchterms="Benedictine"/>
+   <ingredient fullname="grapefruit syrup" shortname="grapefruit syrup"/>
+   <ingredient fullname="white ale" shortname="beer"/>
+   <ingredient fullname="Cointreau" shortname="Cointreau" searchterms="orange liqueur triple sec curaçao curacao"/>
+   <ingredient fullname="yellow Chartreuse" shortname="Chartreuse"/>
+   <ingredient fullname="rose water" shortname="rose water" searchterms="flower"/>
+   <ingredient fullname="allspice dram" shortname="allspice"/>
+   <ingredient fullname="club soda" shortname="soda" searchterms="seltzer sparkling water"/>
+   <ingredient fullname="jalapeño pepper" shortname="jalapeño" searchterms="vegetable spicy"/>
+   <ingredient fullname="Punt e Mes" shortname="vermouth"/>
+   <ingredient fullname="lemon juice" shortname="lemon"/>
+   <ingredient fullname="Scotch whisky" shortname="Scotch" searchterms="blended whiskey"/>
+   <ingredient fullname="chamomile tea" shortname="chamomile"/>
+   <ingredient fullname="rose syrup" shortname="rose"/>
+   <ingredient fullname="Lillet blanc" shortname="Lillet" searchterms="wine"/>
+   <ingredient fullname="orange flower water" shortname="orange flower water"/>
+   <ingredient fullname="single-malt whiskey" shortname="whiskey" searchterms="whisky"/>
+   <ingredient fullname="ruby port" shortname="port" searchterms="wine"/>
+   <ingredient fullname="chocolate bitters" shortname="bitters" searchterms="bitters"/>
+   <ingredient fullname="amaretto" shortname="amaretto" searchterms="almond"/>
+   <ingredient fullname="reposado tequila" shortname="tequila"/>
+   <ingredient fullname="clove syrup" shortname="clove syrup" searchterms="spices"/>
+   <ingredient fullname="orange wheel" shortname="orange wheel"/>
+   <ingredient fullname="quartered lime" shortname="lime"/>
+   <ingredient fullname="gold rum" shortname="rum"/>
+   <ingredient fullname="fennel bulb" shortname="fennel" searchterms="vegetable"/>
+   <ingredient fullname="rosemary" shortname="rosemary" searchterms="herb"/>
+   <ingredient fullname="apple brandy" shortname="apple brandy" searchterms="applejack"/>
+   <ingredient fullname="red wine" shortname="wine"/>
+   <ingredient fullname="elderflower liqueur" shortname="elderflower"/>
+   <ingredient fullname="Maraschino liqueur" shortname="Maraschino" searchterms="cherry"/>
+   <ingredient fullname="palo cortado sherry" shortname="sherry" searchterms="wine"/>
+   <ingredient fullname="watermelon juice" shortname="watermelon"/>
+   <ingredient fullname="Amer Picon bitter" shortname="Amer Picon" searchterms="bitter"/>
+   <ingredient fullname="Pedro Ximénez" shortname="sherry"/>
+   <ingredient fullname="rhubarb purée" shortname="rhubarb"/>
+   <ingredient fullname="apricot liqueur" shortname="apricot"/>
+   <ingredient fullname="agave syrup" shortname="agave"/>
+   <ingredient fullname="pomegranate molasses" shortname="molasses"/>
+   <ingredient fullname="grapefruit juice" shortname="grapefruit"/>
+   <ingredient fullname="lemon wedges" shortname="lemon wedges"/>
+   <ingredient fullname="Beaujolais nouveau" shortname="wine" searchterms="red"/>
+   <ingredient fullname="apricot preserves" shortname="apricot"/>
+   <ingredient fullname="light rum" shortname="rum"/>
+   <ingredient fullname="grapefruit soda" shortname="grapefruit soda" searchterms="squirt ting"/>
+   <ingredient fullname="rhum agricole" shortname="rum"/>
+   <ingredient fullname="Champagne" shortname="Champagne" searchterms="sparkling wine"/>
+   <ingredient fullname="manzanilla sherry" shortname="sherry" searchterms="wine"/>
+   <ingredient fullname="Heering cherry liqueur" shortname="cherry"/>
+   <ingredient fullname="sweet vermouth" shortname="vermouth" searchterms="red"/>
+   <ingredient fullname="pickled ramp brine" shortname="brine" searchterms="vinegar"/>
+   <ingredient fullname="plum brandy" shortname="plum brandy"/>
+   <ingredient fullname="Lillet rouge" shortname="Lillet" searchterms="wine"/>
+   <ingredient fullname="cranberry juice" shortname="cranberry"/>
+   <ingredient fullname="demerara syrup" shortname="demerara" searchterms="sugar"/>
+   <ingredient fullname="kumquat syrup" shortname="kumquat"/>
+   <ingredient fullname="crème de violette" shortname="crème de violette"/>
+   <ingredient fullname="Cynar" shortname="amaro" searchterms="amari amaro Italian bitter"/>
+   <ingredient fullname="pear brandy" shortname="pear brandy"/>
+   <ingredient fullname="lime juice" shortname="lime"/>
+   <ingredient fullname="cabernet franc" shortname="red wine"/>
+   <ingredient fullname="strawberry-infused cachaça" shortname="strawberry-infused cachaça" searchterms="cachaca"/>
+   <ingredient fullname="cachaça" shortname="cachaça" searchterms="rum cachaca"/>
+   <ingredient fullname="whole egg" shortname="egg"/>
+   <ingredient fullname="asparagus" shortname="asparagus" searchterms="vegetable"/>
+   <ingredient fullname="Irish whiskey" shortname="whiskey"/>
+   <ingredient fullname="orange juice" shortname="orange"/>
+   <ingredient fullname="white wine" shortname="wine"/>
+   <ingredient fullname="bianco vermouth" shortname="vermouth" searchterms="sweet white" />
+   <ingredient fullname="gin" shortname="gin"/>
+   <ingredient fullname="Strega" shortname="Strega" searchterms="digestif digestivo"/>
+   <ingredient fullname="port" shortname="port" searchterms="ruby tawny wine"/>
+   <ingredient fullname="orange curaçao" shortname="curaçao" searchterms="triple sec curacao"/>
+   <ingredient fullname="añejo tequila" shortname="tequila"/>
+   <ingredient fullname="verbena bitters" shortname="bitters" searchterms="lemon"/>
+   <ingredient fullname="pear liqueur" shortname="pear"/>
+   <ingredient fullname="aquavit" shortname="aquavit"/>
+   <ingredient fullname="Hibiscus-infused whiskey" shortname="whiskey"/>
+   <ingredient fullname="orange bitters" shortname="bitters"/>
+   <ingredient fullname="lime disc" shortname="lime"/>
+   <ingredient fullname="egg yolk" shortname="egg yolk"/>
+   <ingredient fullname="orgeat" shortname="orgeat" searchterms="almond"/>
+   <ingredient fullname="absinthe" shortname="absinthe" searchterms="licorice liquorice"/>
+   <ingredient fullname="applejack" shortname="applejack" searchterms="brandy"/>
+   <ingredient fullname="lime cordial" shortname="lime cordial"/>
+   <ingredient fullname="pineapple juice" shortname="pineapple"/>
+   <ingredient fullname="black cardamom syrup" shortname="cardamom"/>
+   <ingredient fullname="ginger beer" shortname="ginger beer"/>
+   <ingredient fullname="honey syrup" shortname="honey"/>
+   <ingredient fullname="falernum" shortname="falernum" searchterms="velvet"/>
+   <ingredient fullname="Créole Shrubb" shortname="Créole Shrubb" searchterms="orange liqueur curacao curaçao triple sec creole"/>
+   <ingredient fullname="simple syrup" shortname="sugar"/>
+   <ingredient fullname="pisco" shortname="pisco" searchterms="brandy"/>
+   <ingredient fullname="Cherry Heering" shortname="Cherry Heering" searchterms="liqueur"/>
+   <ingredient fullname="Madeira" shortname="Madeira" searchterms="wine port"/>
+   <ingredient fullname="Grand Marnier" shortname="Grand Marnier" searchterms="orange curacao liqueur curaçao triple sec"/>
+   <ingredient fullname="grapefruit bitters" shortname="bitters"/>
+   <ingredient fullname="fig jam" shortname="fig"/>
+   <ingredient fullname="dry vermouth" shortname="vermouth" searchterms="white"/>
+   <ingredient fullname="Zwack Unicum" shortname="Zwack Unicum" searchterms="liqueur"/>
+   <ingredient fullname="brandied cherries" shortname="brandied cherries" searchterms="cherry"/>
+   <ingredient fullname="sugar" shortname="sugar"/>
+   <ingredient fullname="blanco tequila" shortname="tequila"/>
+   <ingredient fullname="celery stalk" shortname="celery" searchterms="vegetable"/>
+   <ingredient fullname="grenadine" shortname="grenadine" searchterms="pomegranate"/>
+   <ingredient fullname="maple syrup" shortname="maple syrup"/>
+   <ingredient fullname="Dubonnet rouge" shortname="Dubonnet rouge"/>
+   <ingredient fullname="celery bitters" shortname="bitters"/>
+   <ingredient fullname="Campari" shortname="Campari" searchterms="bitter"/>
+   <ingredient fullname="sugar cube" shortname="sugar"/>
+   <ingredient fullname="Gran Classico Bitter" shortname="amaro"/>
+   <ingredient fullname="horchata" shortname="horchata"/>
+   <ingredient fullname="heavy cream" shortname="cream"/>
+   <ingredient fullname="rye whiskey" shortname="whiskey"/>
+   <ingredient fullname="Martinique sugar cane syrup" shortname="sugar"/>
+   <ingredient fullname="mint leaves" shortname="mint" searchterms="herb herbs"/>
+   <ingredient fullname="blackberries" shortname="blackberries"/>
+   <ingredient fullname="strawberries" shortname="strawberries"/>
+   <ingredient fullname="Aperol" shortname="Aperol" searchterms="bitter"/>
+   <ingredient fullname="Suze" shortname="Suze" searchterms="bitter"/>
+   <ingredient fullname="strawberry" shortname="strawberry"/>
+   <ingredient fullname="cherries" shortname="cherries"/>
+</cocktails>
